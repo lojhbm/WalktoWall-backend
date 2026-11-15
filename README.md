@@ -83,7 +83,6 @@ Walk to Wall은 외국인 고객을 포함한 단발성 방문객도 자신의 �
 
 ![Visit Card 기반 추천 동선 및 상품](assets/images/08-visit-card-recommendation.jpg)
 
-![Visit Card 추가 서비스 화면](assets/images/09-visit-card-screen.jpg)
 
 ### 2. Art Wall — 나의 무드로 만드는 브랜드 경험
 
